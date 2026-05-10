@@ -1,0 +1,13 @@
+path: C:/Users/kisha/OneDrive/Documents/Defect Detection on Cast
+train: train/images
+val: val/images
+
+nc: 4
+names: ['Defective', 'cast', 'hole', 'scratches']
+
+roboflow:
+  workspace: royalgamer-s-workspace
+  project: royalgamer-s-workspace
+  version: dataset
+  license: Private
+  url: https://app.roboflow.com/royalgamer-s-workspace/royalgamer-s-workspace/dataset
