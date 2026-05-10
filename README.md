@@ -1,0 +1,1 @@
+# Algonive_Defect_Detection_In_Manufacturing_Using_Ai
